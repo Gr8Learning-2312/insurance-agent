@@ -17,13 +17,17 @@ An AI-powered insurance claims processing system using **LangGraph**, **RAG**, a
 - OpenAI API key
 - Docker (optional, for containerized deployment)
 
-## 🛠️ Installation
+## 🛠️ 3 Methods of Installation
 
-### Local Setup
+### 1. Install on AWS EC2 Instance : Refer `AWS_EC2_Deployment_Steps.md`
+
+### 2. Import the Pre-Built Docker Image from Docker HUB : Refer `Docker_HUB_TO_Instance.md`
+
+### 3. Local Setup in your instance
 
 1. **Clone the repository**
 ```bash
-git clone <https://github.com/omkarbs23/insurance-agent.git>
+git clone https://github.com/Gr8Learning-2312/insurance-agent.git
 cd insurance-agent
 ```
 
@@ -45,13 +49,10 @@ cd insurance-agent
 
 4.  **Configure Environment Variables**:
     *   Find the `.env` file in the project root.
-    *   Add your OpenAI API Key:
+    *   Add your OpenAI API Key & OpenAI Base URL:
         ```env
-        OPENAI_API_KEY=sk-your-openai-api-key-here
-        ```
-    *   (Optional) If you are using a non-standard OpenAI compatible endpoint (like Groq, OpenRouter, etc.), add:
-        ```env
-        OPENAI_BASE_URL=https://api.your-provider.com/v1
+        OPENAI_API_KEY="gl-xxxxxxxxxx"      #  Add your OpenAI API Key
+        OPENAI_BASE_URL="https....../v1"    #  Add your OpenAI Base URL
         ```
 
 ## Running the Application
