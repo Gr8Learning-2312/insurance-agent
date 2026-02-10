@@ -19,11 +19,19 @@ An AI-powered insurance claims processing system using **LangGraph**, **RAG**, a
 
 ## 🛠️ 3 Methods of Installation
 
-### 1. Install on AWS EC2 Instance : Refer [AWS_EC2_Deployment_Steps.md](AWS_EC2_Deployment_Steps.md)
+### 1. Deploy on AWS EC2 Instance (Clone GitHub  →  Build Docker Image  →  Docker Run)
+### Refer : [AWS_EC2_Deployment_Steps.md](AWS_EC2_Deployment_Steps.md)
 
-### 2. Import the Pre-Built Docker Image from Docker HUB : Refer [Docker_HUB_TO_Instance.md](Docker_HUB_TO_Instance.md)
+<br>
+
+### 2. Use Pre-Built Docker Image from Docker Hub (Docker Image Pull  →  Docker Run)
+### Refer : [Docker_HUB_TO_Instance.md](Docker_HUB_TO_Instance.md)
+
+<br>
 
 ### 3. Local Setup in your instance
+
+<br>
 
 1. **Clone the repository**
 ```bash
