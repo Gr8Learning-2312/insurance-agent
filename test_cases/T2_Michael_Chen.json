@@ -1,0 +1,48 @@
+{
+  "claim_id": "CLM-2026-AUTO-002",
+  "policy_holder": "Michael Chen",
+  "vendor_name": "Premium Collision Center",
+  "invoice_items": [
+    {
+      "item": "Front Bumper Replacement",
+      "amount": 1850.00,
+      "description": "OEM front bumper assembly with sensors"
+    },
+    {
+      "item": "Headlight Assembly Replacement - Driver Side",
+      "amount": 1200.00,
+      "description": "LED headlight assembly with adaptive lighting"
+    },
+    {
+      "item": "Hood Replacement and Paint",
+      "amount": 2300.00,
+      "description": "New hood panel, color-matched paint, clear coat"
+    },
+    {
+      "item": "Radiator and Cooling System Repair",
+      "amount": 1450.00,
+      "description": "New radiator, hoses, thermostat, coolant flush"
+    },
+    {
+      "item": "Front Suspension Alignment",
+      "amount": 180.00,
+      "description": "4-wheel computerized alignment after collision"
+    },
+    {
+      "item": "Windshield Replacement",
+      "amount": 650.00,
+      "description": "OEM windshield with rain sensor and recalibration"
+    },
+    {
+      "item": "Frame Straightening and Measurement",
+      "amount": 2800.00,
+      "description": "Computerized frame straightening, structural integrity verification"
+    },
+    {
+      "item": "Paint and Detailing",
+      "amount": 1570.00,
+      "description": "Full front-end refinishing, color matching, detailing"
+    }
+  ],
+  "total_amount": 12000.00
+}

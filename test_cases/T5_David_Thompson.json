@@ -1,0 +1,43 @@
+{
+  "claim_id": "CLM-2026-AUTO-005",
+  "policy_holder": "David Thompson",
+  "vendor_name": "Elite Auto Restoration",
+  "invoice_items": [
+    {
+      "item": "Complete Engine Rebuild",
+      "amount": 8500.00,
+      "description": "Full engine teardown and rebuild, new pistons, rings, bearings"
+    },
+    {
+      "item": "Transmission Replacement",
+      "amount": 4200.00,
+      "description": "Remanufactured transmission with 3-year warranty"
+    },
+    {
+      "item": "Catalytic Converter Replacement",
+      "amount": 2100.00,
+      "description": "OEM catalytic converter, California emissions compliant"
+    },
+    {
+      "item": "Electrical System Diagnostics and Repair",
+      "amount": 1850.00,
+      "description": "Complete electrical system scan, wiring harness repair"
+    },
+    {
+      "item": "Exhaust System Replacement",
+      "amount": 1150.00,
+      "description": "Muffler, pipes, hangers - complete exhaust system"
+    },
+    {
+      "item": "Fluid Services - All Systems",
+      "amount": 320.00,
+      "description": "Oil, coolant, brake fluid, power steering, differential"
+    },
+    {
+      "item": "Labor - Complex Mechanical Work",
+      "amount": 3880.00,
+      "description": "120 hours labor @ shop rate of $95/hour (discounted)"
+    }
+  ],
+  "total_amount": 22000.00
+}

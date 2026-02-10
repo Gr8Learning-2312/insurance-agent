@@ -1,0 +1,10 @@
+{
+"claim_number": "CLAIM-00001",
+"policy_number": "PL-1",
+"claimant_name": "Ema Johnson",
+"vendor_name":"QuickFix Auto Shop",
+"date_of_loss": "2022-01-21",
+"loss_description": "Rear-ended by another driver at a red light, resulting in bumper damage and mild whiplash.",
+"estimated_repair_cost": 15000.0,
+"vehicle_details": "2022 Honda City"
+}

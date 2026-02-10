@@ -1,0 +1,11 @@
+policy_number,premium_dues_remaining,coverage_start_date,coverage_end_date
+PN-1,False,2022-01-01,2022-12-31
+PN-2,False,2023-01-01,2025-11-30
+PN-3,True,2021-06-01,2022-06-01
+PN-4,False,2023-05-01,2025-10-31
+PN-5,True,2020-01-01,2025-01-01
+PN-6,False,2022-07-15,2025-11-01
+PN-7,True,2021-03-10,2023-03-10
+PN-8,False,2024-01-01,2025-11-15
+PN-9,False,2020-05-05,2021-05-05
+PN-10,False,2023-09-01,2025-09-01

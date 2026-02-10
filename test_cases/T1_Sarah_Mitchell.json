@@ -1,0 +1,28 @@
+{
+  "claim_id": "CLM-2026-AUTO-001",
+  "policy_holder": "Sarah Mitchell",
+  "vendor_name": "QuickFix Auto Repair",
+  "invoice_items": [
+    {
+      "item": "Oil Change and Filter Replacement",
+      "amount": 75.00,
+      "description": "Synthetic oil 5W-30, standard oil filter"
+    },
+    {
+      "item": "Brake Pad Replacement - Front",
+      "amount": 320.00,
+      "description": "OEM brake pads, labor included"
+    },
+    {
+      "item": "Tire Rotation and Balance",
+      "amount": 65.00,
+      "description": "4-wheel rotation and computerized balancing"
+    },
+    {
+      "item": "Vehicle Safety Inspection",
+      "amount": 40.00,
+      "description": "State-mandated annual inspection"
+    }
+  ],
+  "total_amount": 500.00
+}

@@ -1,0 +1,13 @@
+{
+  "claim_id": "CLM-2026-AUTO-003",
+  "policy_holder": "",
+  "vendor_name": "Unknown Auto Shop",
+  "invoice_items": [
+    {
+      "item": "Engine Work",
+      "amount": 0.00,
+      "description": ""
+    }
+  ],
+  "total_amount": 0.00
+}

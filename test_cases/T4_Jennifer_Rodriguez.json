@@ -1,0 +1,23 @@
+{
+  "claim_id": "CLM-2026-AUTO-004",
+  "policy_holder": "Jennifer Rodriguez",
+  "vendor_name": "Backyard Bob's Auto Repairs LLC",
+  "invoice_items": [
+    {
+      "item": "Transmission Fluid Change",
+      "amount": 150.00,
+      "description": "Non-OEM transmission fluid"
+    },
+    {
+      "item": "Tire Replacement - All Four",
+      "amount": 800.00,
+      "description": "Budget brand tires, not on approved list"
+    },
+    {
+      "item": "Miscellaneous Parts and Labor",
+      "amount": 450.00,
+      "description": "Various unspecified repairs"
+    }
+  ],
+  "total_amount": 1400.00
+}

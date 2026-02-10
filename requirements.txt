@@ -1,0 +1,25 @@
+# Core Framework
+streamlit==1.31.0
+langchain==1.1.3
+langchain_openai==1.1.3
+langchain-core==1.2.9
+langgraph==1.0.4 
+
+# Vector Store & Embeddings
+chromadb==1.4.0
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.4
+
+# OpenAI
+openai==2.9.0
+
+# Web Server
+gunicorn==21.2.0
+
+# Monitoring & Logging
+python-json-logger==2.0.7
