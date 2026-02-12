@@ -65,7 +65,7 @@ An AI-powered insurance claims processing system using **LangGraph**, **RAG**, a
 
 ## Running the Application
 
-1.  **Start the Flask server**:
+1.  **Start the Streamlit server**:
     ```bash
     streamlit run app/main.py
     ```
