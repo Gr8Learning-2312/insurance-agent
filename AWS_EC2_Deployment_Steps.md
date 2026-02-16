@@ -78,4 +78,4 @@ sudo docker images insurance-agent:v1
 sudo docker run -d -p 80:8501 insurance-agent:v1
 ```
 
-7. Visit your Private IP in any browser
+7. Visit your Public IP in any browser
