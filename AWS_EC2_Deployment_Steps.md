@@ -1,4 +1,3 @@
-
 ## Steps for Building the Docker Image on your AWS EC2 Instance
 
 ## Launch an EC2 Instance
@@ -13,9 +12,10 @@
 ​
 5. **Configure Key Pair** - Create a new SSH key pair, download the .pem file and save it securely
 ​
-6. **Configure Security Group** - Allow SSH (port 22) for your IP, and add rules for any ports your Docker container will expose (e.g., port 80/443 for web apps)
+6. **Configure Security Group** - Allow SSH, HTTP, and HTTPS access (Check all 3 options under the Network/Security Group section).This configuration ensures that the Docker container can expose web application ports (such as 80 and 443) externally.
+<br>**Note:** (Preferred but Optional for this demonstration - Restrict SSH to your IP address for security)
 ​
-7. **Launch Instance** - Review your configuration and click "Launch Instance"
+8. **Launch Instance** - Review your configuration and click "Launch Instance"
 
 
 
